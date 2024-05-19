@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Algorithms",
+        "category": "CS",
+        "image": "https://m.media-amazon.com/images/I/61ZYxrQEpCL._AC_UF1000,1000_QL80_.jpg",
+        "price":"free"
+    },
+    {
+        "id": 2,
+        "name": "Educational Psychology",
+        "category": "Education",
+        "image": "https://m.media-amazon.com/images/I/41hfV-x0b1L._AC_UF1000,1000_QL80_.jpg",
+        "price":"free"
+    },
+    {
+        "id": 3,
+        "name": "Biology: The Essentials",
+        "category": "Biology",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340757597i/13656239.jpg","price":"free"
+    },
+    {
+        "id": 4,
+        "name": "Chemistry: The Central Science",
+        "category": "Chemistry",
+        "image": "https://static.ticimax.cloud/33247/uploads/urunresimleri/buyuk/chemistry-the-central-science13th-ed.-gl-9112.jpg",
+        "price":"free"
+    },
+    {
+        "id": 5,
+        "name": "Fundamentals of Physics",
+        "category": "Physics",
+        "image": "https://images-cdn.ubuy.co.in/661f61a5450abf33211aabf6-pre-owned-fundamentals-of-physics.jpg",
+        "price":"free"
+    },
+    {
+        "id": 6,
+        "name": "Calculus: Early Transcendentals",
+        "category": "Mathematics",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/j9hdn680/book/8/9/1/calculus-early-transcendentals-with-coursemate-original-imaez9jpnsffvyyg.jpeg?q=90&crop=false",
+        "price":"free"
+    },
+    {
+        "id": 7,
+        "name": "Economics: Principles, Problems, and Policies",
+        "category": "Economics",
+        "image": "https://newbooksnbooks.com/wp-content/uploads/2021/01/WhatsApp-Image-2021-01-04-at-6.17.52-PM.jpeg",
+        "price":"free"
+    },
+    {
+        "id": 8,
+        "name": "Psychology: Themes and Variations",
+        "category": "Psychology",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l0sgyvk0/book/b/a/q/psychology-themes-and-variations-10th-edition-original-imagchuattzmpcyf.jpeg?q=90&crop=false",
+        "price":"free"
+    },
+    {
+        "id": 9,
+        "name": "Human Anatomy & Physiology",
+        "category": "Anatomy",
+        "image": "https://m.media-amazon.com/images/I/81PtCLyJ0oL._AC_UF1000,1000_QL80_.jpg",
+        "price":"free"
+    },
+    {
+        "id": 10,
+        "name": "Introduction to Sociology",
+        "category": "Sociology",
+        "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-349-14741-0",
+        "price":"free"
+    }
+]
